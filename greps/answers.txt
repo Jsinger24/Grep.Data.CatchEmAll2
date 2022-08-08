@@ -1,10 +1,30 @@
 # Part 1
 ### a)
 
+grep "blas" forest/filescan_00.1 > captured/blastoise.txt
+grep "bulb" forest/filescan_00.1 > captured/bulbasaur.txt
+grep "butt" forest/filescan_00.1 > captured/butterfree.txt
+grep "mander" forest/filescan_00.2 > captured/charmander.text
+grep "meleon" forest/filescan_00.2 > captured/charmeleon.txt
+grep "izard" forest/filescan_00.2 > captured/charizard.txt
+grep "aur" forest/filescan_00.3 > captured/ivysaur.txt
+grep "lypuff" forest/filescan_00.2 > captured/jigglypuff.text
+grep "th" forest/filescan_00.2 > captured/meowth.text
+grep "chu" forest/filescan_00.3 > captured/pikachu.text
+grep "uck" forest/filescan_00.4 > captured/psyduck.text
+grep "rtle" forest/filescan_00.4 > captured/squirtle.txt
+grep "wart" forest/filescan_00.4 > captured/wartortle.txt
+grep "venu" forest/filescan_00.4 > captured/venusaur.txt
+
+
+
+
+
 
 
 
 ### b)
+
 
 
 
@@ -25,12 +45,35 @@
 # Part 2
 ### a)
 
+jdsinger@Zipcoders-MacBook-Pro-5 captured %     wc -l * | sort
+
+       1 instruction.txt
+      30 bulbasaur.txt
+      32 venusaur.txt
+      33 ivysaur.txt
+      34 jigglypuff.txt
+      34 squirtle.txt
+      36 charmander.text
+      37 charmeleon.txt
+      37 psyduck.text
+      37 wartortle.txt
+      38 blastoise.txt
+      38 butterfree.txt
+      40 beedrill.text
+      40 charizard.txt
+      40 meowth.text
+      40 pikachu.text
+     547 total
+
+
 
 
 
 
 
 ### b)
+
+
 
 
 
